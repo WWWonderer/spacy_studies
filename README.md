@@ -1,3 +1,3 @@
 # spacy_studies
 
-study of [Spacy]
+study of [Spacy](https://github.com/explosion/spaCy/tree/master)
